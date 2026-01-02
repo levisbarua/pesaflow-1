@@ -2,7 +2,7 @@ services:
   - type: web
     name: pesaflow-server
     env: node
-    repo: https://github.com/YOUR_USERNAME/pesaflow
+    repo: https://github.com/levisbarua/pesaflow-1.git
     branch: main
     plan: free
     region: oregon
